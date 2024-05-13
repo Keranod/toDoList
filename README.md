@@ -1,4 +1,3 @@
-# toDoList
+# toDoList-frontend
 
-- To do list project
-- frontend and backend in their own respecitve branches "toDoList-frontend" and "toDoList-backend"
+- Frontend part of the `toDoList` project
