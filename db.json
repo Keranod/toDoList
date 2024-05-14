@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "userID": ""
+            "username": "admin"
+        },
+        {
+            "username": "konrad"
+        }
+    ],
+    "notes": [
+        {}
+    ]
+}
